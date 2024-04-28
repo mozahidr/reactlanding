@@ -1,0 +1,7 @@
+Animate 1: https://animate-in.vercel.app/
+Animate 2: https://medium.com/@jacobvejlinjensen/how-to-create-a-smooth-appear-on-scroll-transition-with-tailwind-css-and-react-82f2a32ab295
+
+Animate 3: https://versoly.com/taos#fade
+
+Email contact form using NextJS (App router):
+https://medium.com/@abilsavio/email-contact-form-using-nextjs-app-router-60c29fe70644
